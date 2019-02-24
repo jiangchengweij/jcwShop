@@ -1,0 +1,15 @@
+{
+  "name": "jcwshop",
+  "version": "1.0.0",
+  "description": "基于uni-app制作的web项目,待开发完善",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flex.css": "^1.1.7",
+    "lodash": "^4.17.11",
+    "sass": "^1.17.0"
+  }
+}
